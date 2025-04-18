@@ -1,0 +1,4 @@
+## Foundry VTT MCP (Module Creation Prompt)
+
+This `.mcp` file contains a structured developer prompt for creating Foundry VTT modules using best practices.  
+📁 [foundry-mcp.mcp](./foundry-mcp.mcp)
