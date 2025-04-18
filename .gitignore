@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Compiled JavaScript from TypeScript
+*.js
+*.js.map
+
+# Environment/Secrets
+.env
+.env.local
+.env.*.local
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.sw?
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Foundry user-specific configs
+foundrydata/Config/
+foundrydata/Logs/
+foundrydata/Cache/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Lock files (optional - depending on team preference)
+package-lock.json
+yarn
